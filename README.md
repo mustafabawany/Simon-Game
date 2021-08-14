@@ -6,7 +6,7 @@
 The objective of this tutorial is to learn how to incorporate JQuery into our Website. 
 
 
-![Finished Website](https://github.com/mustafabawany/Drum-Kit/blob/main/images/Layout.PNG)
+![Finished Website](https://github.com/mustafabawany/Simon-Game/blob/main/layout.PNG)
 
 
 ## Tools Used
